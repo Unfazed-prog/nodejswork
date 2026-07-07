@@ -1,0 +1,50 @@
+/*
+[
+    {"USERNAME":"a", "PASSWORD":"1231", "EMAIL":"example_a@gmail.com", "TYPE":"Admin", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"b", "PASSWORD":"1232", "EMAIL":"example_b@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"c", "PASSWORD":"1233", "EMAIL":"example_c@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"d", "PASSWORD":"1234", "EMAIL":"example_d@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"e", "PASSWORD":"1235", "EMAIL":"example_e@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"f", "PASSWORD":"1236", "EMAIL":"example_f@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"g", "PASSWORD":"1237", "EMAIL":"example_g@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"h", "PASSWORD":"1238", "EMAIL":"example_h@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"i", "PASSWORD":"1239", "EMAIL":"example_i@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"j", "PASSWORD":"1235", "EMAIL":"example_j@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"k", "PASSWORD":"1235", "EMAIL":"example_k@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"l", "PASSWORD":"1231", "EMAIL":"example_l@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"m", "PASSWORD":"1232", "EMAIL":"example_m@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"n", "PASSWORD":"1233", "EMAIL":"example_n@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"o", "PASSWORD":"1234", "EMAIL":"example_o@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"p", "PASSWORD":"1235", "EMAIL":"example_p@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"q", "PASSWORD":"1235", "EMAIL":"example_q@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"r", "PASSWORD":"1235", "EMAIL":"example_r@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"s", "PASSWORD":"1235", "EMAIL":"example_s@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"t", "PASSWORD":"1235", "EMAIL":"example_t@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"u", "PASSWORD":"1235", "EMAIL":"example_u@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"v", "PASSWORD":"1235", "EMAIL":"example_v@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00},
+    {"USERNAME":"w", "PASSWORD":"1236", "EMAIL":"example_w@gmail.com", "TYPE":"Customer", "DATE":2024-04-11T20:00:00.000+00:00}
+]
+*/
+
+[
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_1", "BOOK_DESCRIPTION":"This is a 1 book.", "BOOK_PRICE":1.100},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_2", "BOOK_DESCRIPTION":"This is a 2 book.", "BOOK_PRICE":1.200},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_3", "BOOK_DESCRIPTION":"This is a 3 book.", "BOOK_PRICE":15},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_4", "BOOK_DESCRIPTION":"This is a 4 book.", "BOOK_PRICE":12},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_5", "BOOK_DESCRIPTION":"This is a 5 book.", "BOOK_PRICE":52},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_6", "BOOK_DESCRIPTION":"This is a 6 book.", "BOOK_PRICE":1},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_7", "BOOK_DESCRIPTION":"This is a 7 book.", "BOOK_PRICE":1.52},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_8", "BOOK_DESCRIPTION":"This is a 8 book.", "BOOK_PRICE":15.2},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_9", "BOOK_DESCRIPTION":"This is a 9 book.", "BOOK_PRICE":1},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_10", "BOOK_DESCRIPTION":"This is a 10 book.", "BOOK_PRICE":12},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_11", "BOOK_DESCRIPTION":"This is a 11 book.", "BOOK_PRICE":32},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_12", "BOOK_DESCRIPTION":"This is a 12 book.", "BOOK_PRICE":2},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_13", "BOOK_DESCRIPTION":"This is a 13 book.", "BOOK_PRICE":42},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_14", "BOOK_DESCRIPTION":"This is a 14 book.", "BOOK_PRICE":2},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_15", "BOOK_DESCRIPTION":"This is a 15 book.", "BOOK_PRICE":15},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_16", "BOOK_DESCRIPTION":"This is a 16 book.", "BOOK_PRICE":2},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_17", "BOOK_DESCRIPTION":"This is a 17 book.", "BOOK_PRICE":17},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_18", "BOOK_DESCRIPTION":"This is a 18 book.", "BOOK_PRICE":72},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_19", "BOOK_DESCRIPTION":"This is a 19 book.", "BOOK_PRICE":82},
+    {"BOOK_PICTURE":"https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY=", "BOOK_NAME":"Book_20", "BOOK_DESCRIPTION":"This is a 20 book.", "BOOK_PRICE":82}
+]
